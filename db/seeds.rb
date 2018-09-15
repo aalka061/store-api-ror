@@ -5,3 +5,4 @@
         address: Faker::Address.full_address
     })
 end
+
